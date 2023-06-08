@@ -1,0 +1,50 @@
+.fara {
+    color:indigo
+}
+body {
+    background-color: rgb(240, 235, 235);
+}
+
+#farrukh {
+    width: 200px;
+}
+body {
+    font-family: 'Times New Roman';
+}
+.fer {
+    color:gold
+}
+.var {
+    color:olive
+}
+.assa {
+    color:yellow
+}
+.call {
+    color:darkolivegreen
+}
+.hall {
+    color:midnightblue
+}
+.war {
+    color:green
+}
+
+li:nth-child(2n+1) {
+    color: lightcoral
+}
+
+li:hover {
+    font-weight: bold;
+    color:chartreuse;
+    font-size: 25px;
+}
+
+li {
+    transition: 200ms;
+}
+
+.fara {
+    font-weight: 500;
+    transition: 500ms;
+}
